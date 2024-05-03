@@ -38,8 +38,6 @@ For any questions or feedback, please contact [sayak.kr.dutta1@gmail.com](mailto
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-Thank you for your contribution to the analysis.
-phics, purchase history) for a more comprehensive analysis.
 Investigate alternative models (e.g., decision trees) for potentially better prediction accuracy.
 
 
