@@ -1,7 +1,7 @@
 # Amazon E-commerce Customer Analysis - Linear Regression
 
 ## Project Summary
-This project analyzes customer data from Amazon_cloths, an online clothing store. The company aims to determine whether they should focus their efforts on improving their mobile app experience or their website. The analysis utilizes linear regression to predict customer spending based on various features.
+This project analyzes customer data from Amazon_cloths, an online clothing store. The company aims to determine whether they should focus their efforts on improving their MOBILE APP experience or their WEBSITE. The analysis utilizes linear regression to predict customer spending based on various features.
 
 ## Dataset Overview
 - The dataset contains information on customer attributes and spending behavior, including email, address, avatar, average session length, time spent on the app, time spent on the website, length of membership, and yearly amount spent.
