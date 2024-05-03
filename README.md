@@ -28,7 +28,7 @@ This project analyzes customer data from Amazon_cloths, an online clothing store
 - Based on the analysis, the company should focus more on improving the mobile app experience to enhance customer spending.
 - Further analysis and experimentation may be needed to optimize customer engagement and increase overall revenue.
 
-##Acknowledgments
+## Acknowledgments
 The dataset used in this analysis is sourced from [(https://www.kaggle.com/datasets/iabdulw/ecommerce-customer-data/data)] (author of this dataset: Mason Greenwood) and is publicly available.
 
 ## Contact
