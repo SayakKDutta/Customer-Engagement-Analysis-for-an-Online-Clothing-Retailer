@@ -31,6 +31,9 @@ This project analyzes customer data from Amazon_cloths, an online clothing store
 ## Acknowledgments
 The dataset used in this analysis is sourced from [(https://www.kaggle.com/datasets/iabdulw/ecommerce-customer-data/data)] (author of this dataset: Mason Greenwood) and is publicly available.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
