@@ -31,15 +31,17 @@ This project analyzes customer data from Amazon_cloths, an online clothing store
 ## Acknowledgments
 The dataset used in this analysis is sourced from [(https://www.kaggle.com/datasets/iabdulw/ecommerce-customer-data/data)] (author of this dataset: Mason Greenwood) and is publicly available.
 
-## Contact
-For any questions or feedback, please contact [sayak.kr.dutta1@gmail.com](mailto:sayak.kr.dutta1@gmail.com).
-
 ## Contributing
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
+
+## Contact
+For any questions or feedback, please contact [sayak.kr.dutta1@gmail.com](mailto:sayak.kr.dutta1@gmail.com).
+
+
 
 Investigate alternative models (e.g., decision trees) for potentially better prediction accuracy.
 
