@@ -31,6 +31,9 @@ This project analyzes customer data from Amazon_cloths, an online clothing store
 ## Acknowledgments
 The dataset used in this analysis is sourced from [(https://www.kaggle.com/datasets/iabdulw/ecommerce-customer-data/data)] (author of this dataset: Mason Greenwood) and is publicly available.
 
+## Future Work
+Investigate alternative models (e.g., decision trees) for potentially better prediction accuracy.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
@@ -44,7 +47,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Contact
 For any questions or feedback, please contact [sayak.kr.dutta1@gmail.com](mailto:sayak.kr.dutta1@gmail.com).
 
-## Future Work
-Investigate alternative models (e.g., decision trees) for potentially better prediction accuracy.
 
 
